@@ -3,5 +3,6 @@ Learn how to make use of the GNSS capabilities of the LinkIt ONE development boa
 
 An Arduino sketch is implemented, verified and uploaded to the LinkIt ONE development board. 
 
-For the accelerometer operation download the [ADXL-345 driver](https://github.com/Seeed-Studio/Accelerometer_ADXL345). 
+For the accelerometer operation download the [ADXL-345 driver](https://github.com/Seeed-Studio/Accelerometer_ADXL345).  
+
 The HTTP communication is supported by an [HTTPClient driver](https://github.com/amcewen/HttpClient/releases). 
